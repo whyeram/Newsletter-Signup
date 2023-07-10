@@ -1,3 +1,3 @@
 # Newsletter-Signup
 Newsletter sign-up web application that adds input contact details to mailchimp mailing list.
-Mailchimp API used.
+Made using HTML, CSS, nodeJS, expressJS and MailChimp API
